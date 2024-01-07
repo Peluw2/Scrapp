@@ -11,7 +11,7 @@ import random
 
 
 from defs import getUrl, getcards, phone
-API_ID =  23840206
+API_ID = 23840206
 API_HASH = '7a6b7bd93ac70f8010ef0aa3e565b5f9'
 SEND_CHAT = -1001903652175
 
